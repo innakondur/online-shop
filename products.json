@@ -54,5 +54,12 @@
         "image": "tesla-roadster.jpg",
         "description": "Best sports car in the World",
         "price": 249999.99
+    },
+    {
+        "id": "9",
+        "title": "Pen",
+        "image": "pen.jpg",
+        "description": "Best pen you've ever seen",
+        "price": 999.99
     }
 ]
